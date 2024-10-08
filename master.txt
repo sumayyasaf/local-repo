@@ -1,0 +1,6 @@
+<html>
+<head>
+ <h1> Welcome to the Dci</h1>
+ <h2>Guide to successful course</h2>
+</head>
+</html>
